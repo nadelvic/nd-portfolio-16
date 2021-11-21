@@ -20,7 +20,7 @@ body{
   font-weight:$regular;
   color:$darkBlue;
   line-height:1.4;
-  font-smoothing:antialiassed;
+ 
   -webkit-font-smoothing: antialiased;
 
 }
@@ -1038,7 +1038,7 @@ $buttonSize:30px;
 }
 
 .skill-graph-block.selected:hover{
-  background-clor:$darkBlue;
+  background-color:$darkBlue;
   color:$white;
 
 }
